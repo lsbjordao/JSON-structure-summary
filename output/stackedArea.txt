@@ -1,0 +1,42 @@
+{
+  "0": {
+    "name": "string",
+    "data": "array[numeric]",
+    "color": "string"
+  },
+  "1": {
+    "name": "string",
+    "data": "array[numeric]",
+    "color": "string"
+  },
+  "2": {
+    "name": "string",
+    "data": "array[numeric]",
+    "color": "string"
+  },
+  "3": {
+    "name": "string",
+    "data": "array[numeric]",
+    "color": "string"
+  },
+  "4": {
+    "name": "string",
+    "data": "array[numeric]",
+    "color": "string"
+  },
+  "5": {
+    "name": "string",
+    "data": "array[numeric]",
+    "color": "string"
+  },
+  "6": {
+    "name": "string",
+    "data": "array[numeric]",
+    "color": "string"
+  },
+  "7": {
+    "name": "string",
+    "data": "array[numeric]",
+    "color": "string"
+  }
+}
