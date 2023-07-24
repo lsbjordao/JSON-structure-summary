@@ -1,0 +1,11 @@
+{
+  "a": {
+    "b": "numeric",
+    "c": {
+      "d": "array[numeric]",
+      "e": "string"
+    },
+    "f": "boolean"
+  },
+  "g": "array[numeric]"
+}

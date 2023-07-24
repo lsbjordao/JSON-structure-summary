@@ -1,0 +1,22 @@
+{
+  "EOO": {
+    "band": "string",
+    "areaKm2": {
+      "groups": {
+        "class": "numeric",
+        "sum": "numeric"
+      }
+    }
+  },
+  "AOO": {
+    "band": "string",
+    "areaKm2": {
+      "groups": {
+        "class": "numeric",
+        "sum": "numeric"
+      }
+    }
+  },
+  "AOO_km2": "numeric",
+  "EOO_km2": "numeric"
+}
